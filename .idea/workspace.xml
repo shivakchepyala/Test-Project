@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adf6dc5a-941b-4f87-b312-10b55ed448af" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\shiva\Documents\GitHub\Test-Project\.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\shiva\Documents\GitHub\Test-Project\.gitignore" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/modern/com/AutomationLibrary.java" afterPath="$PROJECT_DIR$/src/main/java/modern/com/AutomationLibrary.java" />
     </list>
     <ignored path="ModernCatTestSuite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,8 +37,8 @@
       <file leaf-file-name="AutomationLibrary.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/modern/com/AutomationLibrary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.16776316">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -101,11 +100,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/modern/com/SmokeTestSuite.java" />
-        <option value="$PROJECT_DIR$/src/main/java/modern/com/AutomationLibrary.java" />
         <option value="$PROJECT_DIR$/src/main/java/modern/com/BaseClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/modern/com/BrowserFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/modern/com/Utils.java" />
         <option value="$PROJECT_DIR$/src/test/java/modern/com/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/modern/com/AutomationLibrary.java" />
       </list>
     </option>
   </component>
@@ -849,8 +848,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/modern/com/AutomationLibrary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.16776316">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding />
         </state>
       </provider>
