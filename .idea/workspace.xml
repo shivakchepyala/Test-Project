@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adf6dc5a-941b-4f87-b312-10b55ed448af" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="adf6dc5a-941b-4f87-b312-10b55ed448af" name="Default" comment="Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ModernCatTestSuite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ModernCatTestSuite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/modern/com/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modern/com/BaseClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="569c495131aba09565e8fa075ca9d0f1aba26c93" />
   </component>
   <component name="ProjectId" id="1fEF0IoX4x8byYc8ffGwz80c20V" />
   <component name="ProjectViewState">
@@ -35,7 +36,7 @@
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="JUnit.SmokeTestSuite.blankEmailVerification">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -210,7 +211,21 @@
       <option name="project" value="LOCAL" />
       <updated>1595776430904</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changes">
+      <created>1595777041419</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595777041419</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changes">
+      <created>1595777896452</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595777896452</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -231,26 +246,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="568" y="226" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1595776587520" />
-    <state x="310" y="0" width="745" height="728" key="CommitChangelistDialog2" timestamp="1595776429168">
+    <state x="310" y="0" width="745" height="728" key="CommitChangelistDialog2" timestamp="1595777895611">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="0" width="745" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595776429168" />
+    <state x="310" y="0" width="745" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595777895611" />
     <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1595776134860">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595776134860" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1595776116356">
+    <state x="175" y="46" key="Git.Interactive.Rebase.Dialog" timestamp="1595777819002">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595776116356" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1595776538302">
+    <state x="175" y="46" key="Git.Interactive.Rebase.Dialog/0.0.1366.728@0.0.1366.728" timestamp="1595777819002" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1595796698554">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595776538302" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595796698554" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1595777928719">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595777928719" />
+    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595777841542">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1595777841542" />
     <state x="385" y="151" key="git4idea.merge.GitPullDialog" timestamp="1595776271216">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="385" y="151" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1595776271216" />
+    <state x="458" y="224" key="git4idea.rebase.GitRebaseDialog" timestamp="1595777809203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="458" y="224" key="git4idea.rebase.GitRebaseDialog/0.0.1366.728@0.0.1366.728" timestamp="1595777809203" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1595796722654">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1595796722654" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
